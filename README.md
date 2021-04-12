@@ -8,4 +8,4 @@ You can contact me via me@redguy.ru<br><br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RedGuys&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-(https://github.com/anuraghazra/github-readme-stats)[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedGuys&layout=compact&theme=tokyonight)]
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedGuys&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
