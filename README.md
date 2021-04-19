@@ -7,6 +7,6 @@ I continue to learn Java, JavaScript, C# , and PHP.<br>
 You can contact me via me@redguy.ru<br><br>
 
 Some stats:<br>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RedGuys&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RedGuys&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedGuys&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedGuys&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=github_dark)]
