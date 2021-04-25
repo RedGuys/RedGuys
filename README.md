@@ -7,10 +7,10 @@ I continue to learn Java, JavaScript, C# , and PHP.<br>
 You can contact me via me@redguy.ru<br><br>
 
 Some stats:
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RedGuys&count_private=true&show_icons=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedGuys&layout=compact&theme=github_dark">
 </div>
 <div>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=github_dark">
+  <img align="center" height="280em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=github_dark">
 <div>
