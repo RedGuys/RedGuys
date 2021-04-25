@@ -13,5 +13,5 @@ You can contact me via me@redguy.ru<br><br>
 </div>
 
 <div>
-  <img height="300em" width="500em" align="center" height="280em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=github_dark">
+  <img height="300em" width="500em" align="center" height="280em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=github_dark&langs_count=6">
 <div>
