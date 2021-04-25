@@ -8,8 +8,8 @@ You can contact me via me@redguy.ru<br><br>
 
 Some stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RedGuys&count_private=true&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedGuys&theme=dark&layout=compact&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RedGuys&count_private=true&show_icons=true&theme=github_dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedGuys&theme=github_dark&layout=compact&langs_count=6" />
 </div>
 <div>
   <img align="center" height="280em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RedGuys&theme=github_dark">
