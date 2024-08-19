@@ -7,5 +7,5 @@ I really love development, almost every day I sit down at the computer and immer
 Now I work for the Storytelling Team and develop my own developments such as the [Imperium Guard](https://t.me/imperium_guard_bot) and the [Underground Transcriber](https://t.me/PWVoiceBot).<br>
 I continue to learn Java, JavaScript, C#.<br>
 You can contact me via me@redguy.ru<br><br>
-See more at [my site](https://redguy.ru)
+See more at [my site](https://redguy.org)
 Also see my [Telegram channel](https://t.me/sleeplesscode)
